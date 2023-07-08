@@ -1,6 +1,6 @@
-Frontend Developer
+# 👋 Hello, I'm Prachi Gupta, a passionate frontend developer.
 
-👋 Hello, I'm Prachi Gupta, a passionate frontend developer. Welcome to my GitHub profile! As a fresher in the industry, I'm excited to learn and grow as a developer while contributing to meaningful projects.
+Welcome to my GitHub profile! As a fresher in the industry, I'm excited to learn and grow as a developer while contributing to meaningful projects.
 
 💻 Tech Stack: My primary focus is on frontend development using HTML, CSS, and JavaScript. I have experience working with popular frameworks like React and libraries like Material-UI. I'm also familiar with state management solutions like Redux and Recoil.
 
