@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Prachi Gupta, a passionate frontend developer
+# 👋 Hello, I'm Prachi Gupta
+<h3 align="center">A passionate frontend developer from India</h3>
 
 Welcome to my GitHub profile! As a fresher in the industry, I'm excited to learn and grow as a developer while contributing to meaningful projects.
 
