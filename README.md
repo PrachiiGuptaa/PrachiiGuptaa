@@ -7,7 +7,7 @@ Welcome to my GitHub profile! As a fresher in the industry, I'm excited to learn
   <img align="right" alt="Coding" width="450" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" alt="Image" />
 </p>
 
-💻 Tech Stack: My primary focus is on frontend development using HTML, CSS, and JavaScript. I have experience working with popular frameworks like React and libraries like Material-UI. I'm also familiar with state management solutions like Redux and Recoil.
+💻 Tech Stack: My primary focus is on frontend development using HTML, CSS, and JavaScript. I have experience working with popular frameworks like React JS, Next JS, Tailwind CSS and libraries like Material-UI, React icons, etc. I'm also familiar with state management solutions like Redux and Recoil.
 
 🌟 Open Source: I strongly believe in the power of open source and actively seek opportunities to contribute to the community. You can find some of my projects on my GitHub repositories. I'm always eager to collaborate and make a positive impact with my code.
 
